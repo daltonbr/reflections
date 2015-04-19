@@ -5,3 +5,7 @@ ALREADY answered
 
 2- How is the staging area different from the working directory and the repository? What value do you think it offers?
 ALREADY answered
+
+3- How can you use the staging area to make sure you have one commit per logical change?
+We can add to staging area just the files that have the logical change that we made.
+We can also keep the others changes in the working directory also, and we don't add it to the staging area until we commit this first change.
