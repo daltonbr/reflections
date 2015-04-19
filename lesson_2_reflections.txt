@@ -12,3 +12,13 @@ We can also keep the others changes in the working directory also, and we don't 
 
 4- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When we wanted try something in parallel with the main version of our code. Like a experimental version or a huge alteration. That way we create different paths in the development process.
+
+5- How do the diagrams help you visualize the branch structure?
+Diagrams are a great tool to help the team see the 'whole picture' of the repo. It help us to track all the branches in a easy way. We can also plan ahead merges and branching situations.
+In managing projects this could be a nice tool to use.
+
+------------
+Notes from lesson 2:
+
+Reachability - When we call the command "git log" on a branch, we see the all the commits in that branch (the most recent ones at the top).
+There could be cases when commits couldn't be 'reached' trough these logs.
