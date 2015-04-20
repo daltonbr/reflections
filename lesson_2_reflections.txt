@@ -17,8 +17,16 @@ When we wanted try something in parallel with the main version of our code. Like
 Diagrams are a great tool to help the team see the 'whole picture' of the repo. It help us to track all the branches in a easy way. We can also plan ahead merges and branching situations.
 In managing projects this could be a nice tool to use.
 
+6- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The two branches becomes one. And the other could be deleted (the label, not the commits under it).
+In the diagram we represent the line of the merged branch going back to both the old commits because we can reach then both from the recent merged branch.
+
+
 ------------
 Notes from lesson 2:
 
 Reachability - When we call the command "git log" on a branch, we see the all the commits in that branch (the most recent ones at the top).
 There could be cases when commits couldn't be 'reached' trough these logs.
+
+git branch -d branch_name
+Deletes the ONLY THE LABEL of that branch, not the commits. ATTENTION that the commits could become unreachable after that.
