@@ -1,0 +1,12 @@
+
+
+---------------
+* Keynotes
+
+git remote <add> </v - verbose> origin <url_of_repo>
+
+git push <remote_send_to> <branch_sended>
+eg: git push origin master
+
+git remote -v  # view current remotes
+git remote rm <remote_to_be_removed>  # Remove remote
