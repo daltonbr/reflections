@@ -1,4 +1,9 @@
+Lesson 3 Reflections - Git and GitHub Course - UDACITY
+Dalton Lima - sacinopatinete@gmail.com
 
+1- When would you want to use a remote repository rather than keeping all your work local?
+Almost all the time now! I`ve already used Dropbox to keep in sync with all my files. But now, with GitHub, we have a tool more suited to our needs as a programmer.
+But specially when working in teams I will use GIT! Thanks Udacity, Caroline and Sarah!
 
 ---------------
 * Keynotes
@@ -10,3 +15,4 @@ eg: git push origin master
 
 git remote -v  # view current remotes
 git remote rm <remote_to_be_removed>  # Remove remote
+
