@@ -14,6 +14,9 @@ Fork is a built in function on GitHub. It clone the repository INSIDE GitHub.
 Clone creates a COPY of the repository from the GitHub to our machine, or just locally in our machine.
 Branches are different "paths" that our files follow. We can track the developing of a file just following down a branch.
 
+4- What is the benefit of having a copy of the last known state of the remote stored locally?
+We can work offline and do our changes. So in the future we could decide if we go for a merge or a fast-forward merge; or yet, we just push our changes to the repo, if nobody send any new commits before us.
+
 ---------------
 * Keynotes
 
