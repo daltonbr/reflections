@@ -1,0 +1,3 @@
+1- When would you want to use a remote repository rather than keeping all your work local?
+Almost all the time now! I`ve already used Dropbox to keep in sync with all my files. But now, with GitHub, we have a tool more suited to our needs as a programmer.
+But specially when working in teams I will use GIT! Thanks Udacity, Caroline and Sarah!
