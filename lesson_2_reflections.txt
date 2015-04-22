@@ -21,6 +21,8 @@ In managing projects this could be a nice tool to use.
 The two branches becomes one. And the other could be deleted (the label, not the commits under it).
 In the diagram we represent the line of the merged branch going back to both the old commits because we can reach then both from the recent merged branch.
 
+7- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Obviously it save us time when it could be done automatically. A problem could occur when the auto-merge "break" our code.
 
 ------------
 Notes from lesson 2:
