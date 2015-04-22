@@ -9,6 +9,11 @@ But specially when working in teams I will use GIT! Thanks Udacity, Caroline and
 Because it will create unnecessary too many versions of the same file, and just by that it will be more difficult to see the development of our projects. Make more sense to just commit logical parts that make senses as whole.
 Up until now, I used Dropbox to hold my codes. And when working on a machine, I have problems with that. Sometimes a file couldn't be processed just because the file in that moment are beeing managed by Dropbox. The workaround that I've been using is to temporally turn of the syncronization in that machine.
 
+3- Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a built in function on GitHub. It clone the repository INSIDE GitHub.
+Clone creates a COPY of the repository from the GitHub to our machine, or just locally in our machine.
+Branches are different "paths" that our files follow. We can track the developing of a file just following down a branch.
+
 ---------------
 * Keynotes
 
